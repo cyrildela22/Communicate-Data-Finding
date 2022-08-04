@@ -4,7 +4,7 @@ Explore the Ford Gobike dataset and communicate data findings.
 ![Ford GoBike Picture](/Gobike.jpeg)
 
 ## Dataset
-The Ford GoBikes dataset explores data of approximately 183400 bike riders in the month of February 2019. The features of the dataset include the trip start and end time, trip duration, user type, gender, and age. There were about 8200 missing values in age and gender attribute and few age outliers which was removed.
+The Ford GoBikes [dataset](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv) explores data of approximately 183400 bike riders in the month of February 2019. The features of the dataset include the trip start and end time, trip duration, user type, gender, and age. There were about 8200 missing values in age and gender attribute and few age outliers which was removed.
 
 
 ## Summary
